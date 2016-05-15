@@ -14,5 +14,6 @@
 int main(void) {
 	puts("!!!Hello World !!!"); /* prints !!!Hello World!!! */
 	puts("!!!Commit 1 !!!");
+	puts("!!!Commit 2 !!!");
 	return EXIT_SUCCESS;
 }
